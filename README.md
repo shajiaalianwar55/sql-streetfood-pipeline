@@ -11,14 +11,16 @@ This project is perfect for:
 -Anyone exploring real-world data projects to strengthen their portfolio using SQL + Python automation
 
 
-## What it does:
--Validates entries (price ranges, duplicates, etc.)  
--Creates three analytical SQL views:  
--  SalesByCuisine  
--  DishesByPriceRange  
--  Regional_StreetFood_Analysis  
--Adds clustered + non-clustered indexes  
--Runs entire workflow with one command
+## 🔍 What It Does
+
+- Validates entries (price ranges, duplicates, etc.)
+- Creates three analytical SQL views:  
+  - `SalesByCuisine`  
+  - `DishesByPriceRange`  
+  - `Regional_StreetFood_Analysis`
+- Adds clustered + non-clustered indexes
+- Runs entire workflow with one command
+
 ##  Setup Instructions
 
 To run this project locally:
