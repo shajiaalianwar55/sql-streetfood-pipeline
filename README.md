@@ -1,8 +1,7 @@
-## 🧭 End-to-End Workflow
-![End-to-End Workflow](assets/workflow.png)
+<img src="assets/workflow.png" alt="End-to-End Workflow" width="800"/>
 
-##𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝗦𝗤𝗟 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝘄𝗶𝘁𝗵 𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗗𝗮𝘁𝗮
-# Who This Project Is For
+#𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝗦𝗤𝗟 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝘄𝗶𝘁𝗵 𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗗𝗮𝘁𝗮
+## Who This Project Is For
 This project is perfect for:
 Aspiring Data Analysts or Engineers learning how to build full workflows, not just run SQL queries
 Students or professionals seeking hands-on experience with data cleaning, validation, and performance tuning
