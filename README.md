@@ -15,8 +15,8 @@ This project is perfect for:
 -Validates entries (price ranges, duplicates, etc.)  
 -Creates three analytical SQL views:  
 -  SalesByCuisine  
-  -  DishesByPriceRange  
-- Regional_StreetFood_Analysis  
+-  DishesByPriceRange  
+-  Regional_StreetFood_Analysis  
 -Adds clustered + non-clustered indexes  
 -Runs entire workflow with one command
 ##  Setup Instructions
